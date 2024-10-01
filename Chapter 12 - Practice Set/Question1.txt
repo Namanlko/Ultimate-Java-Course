@@ -1,0 +1,1 @@
+Question 1: Create three classes Calculator, ScCalculator and HybridCalculator and group them into a package.
